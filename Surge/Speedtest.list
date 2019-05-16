@@ -1,0 +1,4 @@
+# Speedtest
+USER-AGENT,speedtest*, 🍃 Proxy
+DOMAIN-SUFFIX,speedtest.net, 🍃 Proxy
+DOMAIN-SUFFIX,ooklaserver.net, 🍃 Proxy
