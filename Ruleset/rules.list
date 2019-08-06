@@ -1,0 +1,8 @@
+# Tiktok
+DOMAIN,api-h2.tiktokv.com
+DOMAIN,api2-16-h2.musical.ly
+
+# Experian
+USER-AGENT,Experian*
+DOMAIN-KEYWORD,experian
+DOMAIN-SUFFIX,experian.com
