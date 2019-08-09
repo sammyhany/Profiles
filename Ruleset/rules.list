@@ -11,3 +11,9 @@ DOMAIN-SUFFIX,experian.com
 USER-AGENT,DarkSkyApp*
 DOMAIN-KEYWORD,darksky
 DOMAIN-SUFFIX,darksky.net
+
+# Delta
+USER-AGENT,Fly Delta*
+DOMAIN-KEYWORD,delta
+DOMAIN-SUFFIX,delta.com
+
