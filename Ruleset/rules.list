@@ -6,3 +6,7 @@ DOMAIN,api2-16-h2.musical.ly
 USER-AGENT,Experian*
 DOMAIN-KEYWORD,experian
 DOMAIN-SUFFIX,experian.com
+
+# DarkSky
+USER-AGENT,DarkSkyApp*
+DOMAIN-KEYWORD,darksky
