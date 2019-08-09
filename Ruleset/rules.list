@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,experian.com
 # DarkSky
 USER-AGENT,DarkSkyApp*
 DOMAIN-KEYWORD,darksky
+DOMAIN-SUFFIX,darksky.net
