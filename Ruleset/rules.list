@@ -12,8 +12,3 @@ USER-AGENT,DarkSkyApp*
 DOMAIN-KEYWORD,darksky
 DOMAIN-SUFFIX,darksky.net
 
-# Delta
-USER-AGENT,FlyDelta*
-DOMAIN-KEYWORD,delta
-DOMAIN-SUFFIX,delta.com
-
