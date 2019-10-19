@@ -1,0 +1,6 @@
+# QQMusic
+USER-AGENT,QQMusic*
+USER-AGENT,TencentMidasConnect*
+DOMAIN-KEYWORD,gtimg
+DOMAIN-SUFFIX,szmg.qq.com
+DOMAIN-SUFFIX,*.y.qq.com
