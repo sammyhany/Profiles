@@ -3,4 +3,7 @@ USER-AGENT,QQMusic*
 USER-AGENT,TencentMidasConnect*
 DOMAIN-KEYWORD,gtimg
 DOMAIN-SUFFIX,szmg.qq.com
-DOMAIN-SUFFIX,*.y.qq.com
+DOMAIN-SUFFIX,y.qq.com
+DOMAIN,aqqmusic.tc.qq.com
+DOMAIN,dldir1.qq.com
+IP-CIDR,183.3.235.141/8081,no-resolve
